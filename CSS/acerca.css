@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body{
+    background: fixed;
+    background-color: burlywood;
+}
+
+h1{
+    color: chocolate;
+    font-family:  'Anton', sans-serif;
+    text-align: center;
+}
+
+pre{
+    color:darkgray;
+    font-family:  'Anton', sans-serif;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+a:hover{
+    color: rgb(127, 255, 0);
+    transition: color .5s;
+}
+
+li{
+    margin:auto;
+    color: chocolate;
+}
+
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+
+/*Las propiedades para agregsr el texto son:*/
